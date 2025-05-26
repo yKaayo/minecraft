@@ -3,7 +3,7 @@ import { TextureLoader } from 'three'
 // Images
 import dirtImg from '../assets/images/dirt.webp'
 import bricksImg from '../assets/images/bricks.webp'
-import cobblestoneImg from '../assets/images/Cobblestone.webp'
+import cobblestoneImg from '../assets/images/cobblestone.webp'
 import mossImg from '../assets/images/moss.webp'
 
 export const dirtTexture = new TextureLoader().load(dirtImg)
